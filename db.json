@@ -1,0 +1,125 @@
+[
+    {
+        "_id": "10",
+        "type":"retirement" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in Retirement Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "Retirement planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after retirement. Here are a few reasons to help you understand why your taxes in retirement may be less than you think:"
+        }
+      },
+      {
+        "_id": "11",
+        "type":"retirement" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in Retirement Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "Retirement planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after retirement. Here are a few reasons to help you understand why your taxes in retirement may be less than you think:"
+        }
+      }
+      ,
+      {
+        "_id": "12",
+        "type":"retirement" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in Retirement Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "Retirement planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after retirement. Here are a few reasons to help you understand why your taxes in retirement may be less than you think:"
+        }
+      },
+      {
+        "_id": "13",
+        "type":"retirement" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in Retirement Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "Retirement planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after retirement. Here are a few reasons to help you understand why your taxes in retirement may be less than you think:"
+        }
+      },
+      {
+        "_id": "14",
+        "type":"retirement" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in Retirement Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "Retirement planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after retirement. Here are a few reasons to help you understand why your taxes in retirement may be less than you think:"
+        }
+      },
+      {
+        "_id": "15",
+        "type":"retirement" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in Retirement Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "Retirement planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after retirement. Here are a few reasons to help you understand why your taxes in retirement may be less than you think:"
+        }
+      },
+      //investment
+      {
+        "_id": "20",
+        "type":"investment" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in investment Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "investment planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after investment. Here are a few reasons to help you understand why your taxes in investment may be less than you think:"
+        }
+      },
+      {
+        "_id": "21",
+        "type":"investment" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in investment Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "investment planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after investment. Here are a few reasons to help you understand why your taxes in investment may be less than you think:"
+        }
+      }
+      ,
+      {
+        "_id": "22",
+        "type":"investment" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in investment Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "investment planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after investment. Here are a few reasons to help you understand why your taxes in investment may be less than you think:"
+        }
+      },
+      {
+        "_id": "23",
+        "type":"investment" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in investment Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "investment planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after investment. Here are a few reasons to help you understand why your taxes in investment may be less than you think:"
+        }
+      },
+      {
+        "_id": "24",
+        "type":"investment" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in investment Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "investment planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after investment. Here are a few reasons to help you understand why your taxes in investment may be less than you think:"
+        }
+      },
+      {
+        "_id": "25",
+        "type":"investment" ,
+        "article_data": {
+          "article_image": '',
+          "article_header":"Why your Taxes in investment Maybe Less than you think",
+          "article_date": "12/31/2020",
+          "article_content": "investment planning is important to ensure you have a continuous stream on income once you retire. But some people worry they will have to spend too much on taxes after investment. Here are a few reasons to help you understand why your taxes in investment may be less than you think:"
+        }
+      }
+]
